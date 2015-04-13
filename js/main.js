@@ -1,10 +1,17 @@
 (function($, window){
 
-	window.App = {};
-	window.App.init = function(){
-		console.log("App init");
-	};
+	window.App = {
 
-	window.App.init();
+		init: function(){
+			console.log("init");
+		
+			var bindEvents = function(){
+				console.log("bind events");
+
+			}
+
+			bindEvents();
+		}
+	};
 
 }(jQuery, window));
