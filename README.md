@@ -66,6 +66,10 @@ For fast developing asaszievit
 21. git clone nam_of_repo.git
 22. git init
 
+# NodeJS
+1. http://nodemon.io/
+2. 
+
 # Plugins for Brackets
 1. Autoprefixer
 2. Brackets color pallete
