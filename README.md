@@ -7,6 +7,7 @@ For fast developing asaszievit
 2. browser-sync start --server --files "css/*.css"
 3. npm install express -g
 4. npm install express-generator -g
+5. express first-app
 
 
 # Some usefull links
