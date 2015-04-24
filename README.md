@@ -8,6 +8,7 @@ For fast developing asaszievit
 3. npm install express -g
 4. npm install express-generator -g
 5. express first-app
+6. sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/subl
 
 
 # Some usefull links
