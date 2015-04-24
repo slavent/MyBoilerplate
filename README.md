@@ -5,6 +5,8 @@ For fast developing asaszievit
 # Some usefull commands
 1. open /Applications/Google\ Chrome.app --args --disable-web-security
 2. browser-sync start --server --files "css/*.css"
+3. npm install express -g
+4. npm install express-generator -g
 
 
 # Some usefull links
