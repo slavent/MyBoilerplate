@@ -10,6 +10,8 @@ For fast developing asaszievit
 5. express first-app
 6. sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/subl
 7. export EDITOR='subl -w'
+8. cat file.html
+9. history
 
 
 # Some usefull links
