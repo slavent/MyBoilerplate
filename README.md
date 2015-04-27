@@ -7,11 +7,12 @@ For fast developing asaszievit
 2. browser-sync start --server --files "css/*.css"
 3. npm install express -g
 4. npm install express-generator -g
-5. express first-app
-6. sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/subl
-7. export EDITOR='subl -w'
-8. cat file.html
-9. history
+5. express myApp
+6. DEBUG=myApp ./bin/www
+7. sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/subl
+8. export EDITOR='subl -w'
+9. cat file.html
+10. history
 
 
 # Some usefull links
