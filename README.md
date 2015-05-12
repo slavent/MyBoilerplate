@@ -13,6 +13,7 @@ For fast developing asaszievit
 8. export EDITOR='subl -w'
 9. cat file.html
 10. history
+11. open -a "Google Chrome" index.html
 
 
 # Some usefull links
