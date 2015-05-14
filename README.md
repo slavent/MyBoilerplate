@@ -37,6 +37,7 @@ For fast developing asaszievit
 18. http://fronteed.com/iCheck/ - custom checkbox and radiobtn
 18. http://caniuse.com/ - can i use
 19. http://habrahabr.ru/post/252287/ - 22 photoshop plugins
+20. http://unminify.com/ - unminify js
 
 
 # Books
